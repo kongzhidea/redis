@@ -1,3 +1,3 @@
 # redis
 
-RedisCluster  »ùÓÚzookeeperµÄ ·Ö²¼Ê½redis·şÎñ
+RedisCluster  åŸºäºzookeeperçš„ åˆ†å¸ƒå¼redisæœåŠ¡

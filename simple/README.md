@@ -15,7 +15,7 @@
 
 #### 2.6.2 版本
 * maxTotal：链接池中最大连接数，默认值8。
-  * commons-pool1 中maxActive改成maxTotal
+  * commons-pool1 中maxActive
 * maxIdle：连接池中最大空闲的连接数,默认为8
 * minIdle: 连接池中最少空闲的连接数,默认为0
 * maxWaitMillis：当连接池资源耗尽时，调用者最大阻塞的时间，超时将跑出异常。单位，毫秒数;默认为-1.表示永不超时. 默认值 -1。

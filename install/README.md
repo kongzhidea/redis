@@ -9,7 +9,7 @@
 
 ### linux下redis安装部署
 ```
-使用3.0.5版本。
+
 
 1、安装
 tar -zxvf redis-2.8.7.tar.gz  
